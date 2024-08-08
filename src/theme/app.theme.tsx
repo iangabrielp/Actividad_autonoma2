@@ -62,7 +62,7 @@ export const styles = StyleSheet.create({
     },
     result: {
         marginTop: 20,
-        fontSize: 20,
+        fontSize: 30,
         color: 'white', 
         textAlign:'center',
       },
